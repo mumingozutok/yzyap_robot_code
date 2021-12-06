@@ -1,0 +1,15 @@
+matrix_lcd.c:14:6:resetLEDIOs	16	static
+matrix_lcd.c:25:6:initLedMatrixGPIO	8	static
+matrix_lcd.c:59:6:MatrixLCD_SetPixel	16	static
+matrix_lcd.c:63:6:MatrixLCD_ResetPixels	16	static
+matrix_lcd.c:73:6:MatrixLCD_SetPixels2Buf	32	static
+matrix_lcd.c:81:6:Matrix2LCD	40	static
+matrix_lcd.c:88:9:MatrixLED_JohnsonCounter	16	static
+matrix_lcd.c:109:6:MatrixLED_Timer_Callback	24	static
+matrix_lcd.c:125:6:draw_cross2MatrixLED	8	static
+matrix_lcd.c:139:6:draw_HappyMatrixLED	8	static
+matrix_lcd.c:154:6:draw_SadMatrixLED	8	static
+matrix_lcd.c:168:6:draw_AngryMatrixLED	8	static
+matrix_lcd.c:184:6:draw_OnMatrixLED	8	static
+matrix_lcd.c:191:6:draw_heart	8	static
+matrix_lcd.c:217:6:draw_OffMatrixLED	8	static

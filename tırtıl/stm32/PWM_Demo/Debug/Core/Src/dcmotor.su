@@ -1,0 +1,8 @@
+dcmotor.c:14:9:get_f_motor_new_action	8	static
+dcmotor.c:15:6:set_f_motor_new_action	8	static
+dcmotor.c:16:6:rst_f_motor_new_action	8	static
+dcmotor.c:18:6:initWheelMotors	16	static
+dcmotor.c:56:6:motor_action	24	static
+dcmotor.c:81:6:motor_all_action	24	static
+dcmotor.c:102:6:motor_pwm_timer_callback	16	static
+dcmotor.c:170:6:test_motor	16	static

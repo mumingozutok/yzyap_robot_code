@@ -1,0 +1,2 @@
+parser.c:31:6:process_uart_data	24	static
+parser.c:98:6:parse_uart_data	16	static
